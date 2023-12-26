@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-fe516156e9f1e3b5dda6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ece650-a3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ece650-a2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ece650-a2-48558ab35b3052fdb1c2.json",
+					"name" : "ece650-a2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ece650-a3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ece650-a3-05fafcbf7ee96364bc26.json",
+					"name" : "ece650-a3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgen-a606d1044c5ff8633ec3.json",
+					"name" : "rgen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-bf8753ecc35deb84eb8e.json",
+					"name" : "tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/a3/build",
+		"source" : "/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/a3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

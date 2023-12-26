@@ -1,0 +1,110 @@
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V5.txt 
+APPROX-VC-2: 1 2 Execution time: 2.5083e-05 seconds
+APPROX-VC-2: 1 2 Execution time: 1.7708e-05 seconds
+APPROX-VC-2: 1 2 Execution time: 1.7833e-05 seconds
+APPROX-VC-2: 1 2 Execution time: 2.8084e-05 seconds
+APPROX-VC-2: 1 3 Execution time: 1.3792e-05 seconds
+APPROX-VC-2: 1 2 4 5 Execution time: 1.6708e-05 seconds
+APPROX-VC-2: 1 2 3 4 Execution time: 1.8666e-05 seconds
+APPROX-VC-2: 1 2 4 5 Execution time: 4.7e-05 seconds
+APPROX-VC-2: 1 2 4 5 Execution time: 1.575e-05 seconds
+APPROX-VC-2: 1 2 4 5 Execution time: 1.9291e-05 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V10.txt
+APPROX-VC-2: 1 2 3 4 Execution time: 5.2667e-05 seconds
+APPROX-VC-2: 1 2 3 6 Execution time: 2.2625e-05 seconds
+APPROX-VC-2: 1 2 3 4 Execution time: 3.4042e-05 seconds
+APPROX-VC-2: 1 2 3 5 6 8 Execution time: 3.1542e-05 seconds
+APPROX-VC-2: 1 2 3 4 Execution time: 2.1166e-05 seconds
+APPROX-VC-2: 1 2 3 6 Execution time: 2.725e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 7 Execution time: 2.6958e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 9 10 Execution time: 2.9459e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 8 Execution time: 2.875e-05 seconds
+APPROX-VC-2: 1 2 3 4 Execution time: 2.2625e-05 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V15.txt
+APPROX-VC-2: 1 2 3 4 5 6 7 9 11 13 Execution time: 9.5417e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 10 12 Execution time: 3.4042e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 8 10 Execution time: 3.4958e-05 seconds
+APPROX-VC-2: 1 2 3 5 6 7 8 10 12 14 Execution time: 4.1375e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 7 8 10 11 14 Execution time: 3.925e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 8 10 Execution time: 3.4542e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 8 13 Execution time: 3.0791e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 10 11 Execution time: 3.6208e-05 seconds
+APPROX-VC-2: 1 2 3 4 6 8 Execution time: 2.8875e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 Execution time: 3.1166e-05 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V20.txt
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 11 12 13 15 18 Execution time: 0.000112792 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 11 12 13 14 Execution time: 5.1041e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 7 8 9 10 11 12 13 16 18 Execution time: 5.7583e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 10 11 13 16 18 19 Execution time: 5.3333e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 11 12 14 15 17 Execution time: 4.6e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 10 11 12 15 16 18 Execution time: 4.7083e-05 seconds
+APPROX-VC-2: 1 3 4 5 6 7 8 9 11 12 13 14 18 19 Execution time: 5.6125e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 15 16 19 Execution time: 0.000123667 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 13 16 19 Execution time: 5.6042e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 9 10 11 13 14 16 20 Execution time: 7.1125e-05 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V25.txt
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 13 14 15 16 17 20 23 Execution time: 9.4833e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 12 13 15 17 18 20 21 Execution time: 5.7625e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 18 19 22 Execution time: 7.0625e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 8 9 11 12 14 16 17 19 23 24 Execution time: 6.8208e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 8 9 11 12 14 16 17 19 23 24 Execution time: 6.6583e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 20 21 Execution time: 5.9959e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 9 10 13 14 15 19 21 22 23 Execution time: 5.6292e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 8 9 10 11 12 15 16 18 19 23 Execution time: 6.7e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 9 10 11 13 16 18 19 20 21 Execution time: 5.6958e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 15 16 17 18 20 22 Execution time: 6.2458e-05 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V30.txt
+APPROX-VC-2: 1 2 3 4 5 6 8 9 10 11 12 13 14 15 18 19 20 21 Execution time: 0.000105417 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 23 Execution time: 8.05e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 13 14 15 16 17 20 23 24 27 Execution time: 7.1334e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 15 17 19 21 22 25 26 Execution time: 8.9167e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 14 15 17 19 21 23 24 28 Execution time: 7.7083e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 7 8 9 10 11 12 14 15 16 17 21 Execution time: 7.3375e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 7 8 9 10 11 12 15 16 18 19 25 26 27 Execution time: 7.8791e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 20 21 22 24 29 Execution time: 7.9e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 14 15 17 18 20 21 22 26 Execution time: 6.7625e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 19 20 21 25 Execution time: 7.7375e-05 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V35.txt
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 18 19 20 25 26 27 29 30 31 Execution time: 0.000164542 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 18 20 21 22 25 27 28 29 31 Execution time: 0.000132125 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 21 22 23 25 26 30 32 33 Execution time: 0.000124625 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 24 25 26 27 Execution time: 0.000127916 seconds
+APPROX-VC-2: 1 2 3 5 6 7 8 9 10 11 12 13 14 17 18 21 27 28 29 30 Execution time: 9.8709e-05 seconds
+APPROX-VC-2: 1 2 4 5 6 7 8 9 10 11 12 13 15 16 17 18 20 21 22 24 25 26 29 30 Execution time: 0.000102167 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 22 23 24 26 30 34 Execution time: 9.3625e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 18 19 22 23 24 25 28 30 32 33 Execution time: 9.2792e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 21 23 24 25 27 29 30 32 Execution time: 8.6458e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 13 14 15 16 18 19 21 22 23 25 26 27 28 30 31 Execution time: 8.9042e-05 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V40.txt
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 20 24 25 26 38 39 Execution time: 0.000153542 seconds
+APPROX-VC-2: 1 2 3 5 6 7 8 9 10 11 12 13 14 16 17 18 21 24 25 26 27 29 30 31 34 36 37 38 Execution time: 0.000105834 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 24 26 27 28 30 31 32 Execution time: 9.275e-05 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 13 14 15 16 18 21 22 23 24 25 30 31 35 36 37 38 39 Execution time: 0.000101833 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18 19 20 21 22 23 24 28 29 33 34 37 Execution time: 0.000106416 seconds
+APPROX-VC-2: 1 2 3 5 6 7 8 9 10 11 12 13 14 15 16 17 18 22 23 24 29 30 31 35 Execution time: 0.000101416 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 25 27 30 32 33 37 Execution time: 0.000120709 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 23 24 25 28 29 30 32 33 35 Execution time: 0.000122708 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 9 10 11 13 14 15 16 17 19 21 22 23 25 26 27 29 32 35 36 37 40 Execution time: 0.000116084 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 17 18 19 21 23 24 25 26 27 28 29 31 32 Execution time: 0.000104833 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V45.txt
+APPROX-VC-2: 1 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25 27 28 30 32 33 34 35 37 38 Execution time: 0.00016675 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 10 11 13 14 15 16 17 18 19 21 22 24 25 26 27 30 32 33 35 36 38 39 42 44 Execution time: 0.000123875 seconds
+APPROX-VC-2: 1 2 3 4 5 7 9 11 12 13 14 15 16 17 20 21 22 24 26 28 31 32 33 37 38 39 40 44 Execution time: 0.000107333 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 24 25 26 27 28 31 32 33 36 37 Execution time: 0.000126416 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19 20 21 22 24 25 26 31 32 35 39 40 43 Execution time: 0.000118709 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 19 20 21 23 24 25 26 27 28 30 31 32 34 35 36 42 Execution time: 0.000128875 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 14 15 16 17 18 19 20 21 22 23 25 26 27 28 29 32 33 34 35 39 42 43 Execution time: 0.000129709 seconds
+APPROX-VC-2: 1 2 3 4 6 7 8 9 10 11 12 13 15 16 17 19 20 21 24 26 27 28 29 32 33 34 36 38 39 40 Execution time: 0.000109833 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 16 17 19 20 21 22 23 24 25 26 29 32 34 35 38 39 Execution time: 0.000110834 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 19 20 21 22 23 24 25 26 29 30 31 33 34 36 38 43 Execution time: 0.000116583 seconds
+lauraju@Lauras-MacBook-Air build % ./ece650-a4 < ../test_cases/test_V50.txt
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21 23 25 28 32 33 35 36 38 41 42 44 45 46 47 Execution time: 0.0001515 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 25 26 28 30 32 35 36 37 39 40 41 42 45 47 48 Execution time: 0.000145083 seconds
+APPROX-VC-2: 1 2 3 4 5 7 8 9 11 12 13 14 15 16 17 19 20 22 23 24 28 29 33 34 35 36 38 44 45 46 Execution time: 0.000149541 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 24 25 28 29 30 31 32 33 36 37 39 41 43 45 48 50 Execution time: 0.00013325 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21 22 23 25 28 29 31 36 38 39 41 44 45 49 50 Execution time: 0.00013675 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 16 17 18 19 20 21 25 26 28 29 30 33 37 39 41 43 45 47 50 Execution time: 0.00012125 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21 23 24 25 26 27 29 31 34 35 38 40 44 45 46 Execution time: 0.000129834 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 25 27 28 29 30 31 33 34 37 38 40 42 44 45 46 Execution time: 0.000123292 seconds
+APPROX-VC-2: 1 2 3 4 5 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 32 34 35 37 38 40 41 44 46 Execution time: 0.000122375 seconds
+APPROX-VC-2: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 25 26 28 29 30 31 32 33 34 36 37 38 41 42 43 48 Execution time: 0.000132584 seconds

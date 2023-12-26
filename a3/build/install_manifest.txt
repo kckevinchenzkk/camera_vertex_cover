@@ -1,0 +1,4 @@
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/a3/build/run/bin/ece650-a1.py
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/a3/build/run/bin/ece650-a2
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/a3/build/run/bin/ece650-a3
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/a3/build/run/bin/rgen
