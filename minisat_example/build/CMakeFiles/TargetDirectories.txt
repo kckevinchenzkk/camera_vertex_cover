@@ -1,0 +1,17 @@
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/CMakeFiles/ece650-minisat.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/CMakeFiles/edit_cache.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/CMakeFiles/rebuild_cache.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/CMakeFiles/list_install_components.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/CMakeFiles/install.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/CMakeFiles/install/local.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/CMakeFiles/install/strip.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/minisat-lib-static.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/minisat_core.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/minisat_simp.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/edit_cache.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/rebuild_cache.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/list_install_components.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/install.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/install/local.dir
+/Users/kevinchen/Desktop/Waterloo/ECE650/z585chen/minisat-example/build/minisat/CMakeFiles/install/strip.dir
